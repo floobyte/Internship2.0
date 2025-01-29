@@ -1,0 +1,3 @@
+// Find x(Q.7)
+ let x=2;
+ console.log("x*5+10");
