@@ -1,0 +1,7 @@
+// Print Floobyte School(Q.1)
+
+ letprint = "Floobyte School";
+ letprint = "A Transferformation in Education";
+ console.log("Floobyte School");
+ console.log("A Transferformation in Education");
+
