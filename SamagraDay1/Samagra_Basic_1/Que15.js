@@ -9,7 +9,5 @@ function checkPassFail(examScore, assignmentScore, allAssignmentsCompleted) {
       return "Fail";
     }
   }
-  
-  // Example usage:
   console.log(checkPassFail(30, 20, true));   
   
